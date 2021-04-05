@@ -1,0 +1,30 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Times New Roman", VN-NTime;
+         }
+td,th {
+    padding: 10px;
+    border-style: groove;
+    text-align: center;
+    background-size: 1px;
+   }
+#color2 {
+    background-color:darkgoldenrod;
+}
+#color3 {
+    background-color: orange;
+}
+#color5 {
+    background-color: orange;
+}
+#color7 {
+    background-color: orange;
+}
+h2 {
+    text-align: center;
+    color: aquamarine;
+}
+#xxx {
+    text-align: left;
+}
